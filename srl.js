@@ -12,5 +12,4 @@ var MessageBox = React.createClass({
 			function(){
 				console.log('渲染完成啦！！');
 			}
-		)
-		mmmmmmmm
+		)冀海涛		
